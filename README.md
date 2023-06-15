@@ -1,6 +1,37 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Meu Segundo exercicio do curso de React:
+esse projeto foi feito em aula como objetivo criar uma tabela com alguns alunos ficticios, essa tabela mostra dados do aluno juntamente com os status do mesmo sendo ativo ou inativo, mostra as medias e no final calcula a nota do aluno
+## Como Usar 
+
+Primeiro, execute o servidor de desenvolvimento:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
+
+Você pode começar a editar a página modificando `app/page.tsx`. A página é atualizada automaticamente conforme você edita o arquivo.
+
+Este projeto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para otimizar e carregar automaticamente o Inter, uma fonte personalizada do Google.
+
+## Tempo De Estudo
+
+Estou estudando react a 5 dias esse foi meu segundo projeto onde o primeiro você pode verificar aqui `https://github.com/Daviviniciusdev/react-primeiro-projeto`. Até o proximo projeto haha
+
+
+## ENGLISH
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages /create-next-app).
+
+## My second exercise of the React course:
+this project was done in class with the objective of creating a table with some fictitious students, this table shows the student's data along with the status of the same being active or inactive, shows the averages and in the end calculates the student's grade
+## How to use
 
 First, run the development server:
 
@@ -12,23 +43,12 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.tsx`. The page automatically refreshes as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to optimize and automatically load Inter, a custom font from Google.
 
-## Learn More
+## Study time
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+I've been studying react for 5 days this was my second project where the first one you can check here `https://github.com/Daviviniciusdev/react-primeiro-projeto`. Until the next project haha
