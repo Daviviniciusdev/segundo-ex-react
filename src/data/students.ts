@@ -54,5 +54,14 @@ export const students: Student[] = [
         avatar: 'https://images.unsplash.com/photo-1611689037241-d8dfe4280f2e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzN8fHJvc3RvfGVufDB8MHwwfHx8Mg%3D%3D&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
         grade1: 5.5,
         grade2: 6.2
+    },
+    {
+        id: 7,
+        active: true,
+        name: 'Davi vinicius',
+        email: 'ghost@gmail.com',
+        avatar: 'https://png.pngtree.com/element_our/20200610/ourlarge/pngtree-character-default-avatar-image_2237203.jpg',
+        grade1: 9.5,
+        grade2: 10
     }
 ];

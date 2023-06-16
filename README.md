@@ -22,7 +22,7 @@ Este projeto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optim
 
 ## Tempo De Estudo
 
-Estou estudando react a 5 dias esse foi meu segundo projeto onde o primeiro você pode verificar aqui `https://github.com/Daviviniciusdev/react-primeiro-projeto`. Até o proximo projeto haha
+Estou estudando react a 5 dias esse foi meu segundo projeto onde o primeiro você pode verificar aqui (https://github.com/Daviviniciusdev/react-primeiro-projeto). Até o proximo projeto haha
 
 
 ## ENGLISH
